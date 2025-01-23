@@ -6,7 +6,7 @@
 本库为该App发布release版本，不包含任何代码.<br>
 包含功能刮削，播放视频.<br>
 支持协议：Alist，SMB，Webdav，Emby（直连），Local，jellyfin（直连），阿里网盘.<br>
-最低版本支持安卓9.<br>
+最低版本支持安卓8.<br>
 
 
 <a href="https://www.attemptd.work/AfuseKt/InstructionsForUse/">使用手册</a> 必看.<br>
@@ -20,9 +20,8 @@
 
 
 qq群，加不了代表已满
-qq1群：662807208
-qq2群：730115842
-qq4群：680093723
+qq群：861559202
+qq群：680093723
 
 <div >
   <img src="https://github.com/AttemptD/AfuseKt-release/assets/50815957/a4064a6b-6dd8-4ead-be83-3820845a81e4" width=30%/>
